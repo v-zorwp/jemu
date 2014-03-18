@@ -3,4 +3,4 @@ jemu
 
 ARM emulator (for arm kernel testing)
 
-written by Phear's v-zor on cygwin
+written by v-zor in C/C++ on cygwin
